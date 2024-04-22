@@ -1,0 +1,8 @@
+{
+  "label": "Service Definition",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "SPG API Documentation."
+  }
+}
